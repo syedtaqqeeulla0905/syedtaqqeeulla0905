@@ -1,12 +1,12 @@
-# Hi there! I'm Syed Taqeeulla 👋
+# Hi there! I'm Syed Taqeeulla
 
-### ⚡ Electronics & Telecommunication Engineer | Embedded Systems & Robotics Enthusiast
+### Electronics & Telecommunication Engineer | Embedded Systems & Robotics Enthusiast
 
 > *"Building the future of Connected & Smart Systems"*
 
 ---
 
-### 🤖 Hardware & Embedded Systems
+### Hardware & Embedded Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
-### 💻 Languages & Software Technologies
+### Languages & Software Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -30,7 +30,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 ```cpp
 struct Engineer {
@@ -45,7 +45,7 @@ struct Engineer {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=syedtaqqeeulla0905&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
