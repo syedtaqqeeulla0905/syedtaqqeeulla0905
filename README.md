@@ -1,58 +1,80 @@
-# Hi there! I'm Syed Taqeeulla
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Syed%20Taqeeulla&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-### Electronics & Telecommunication Engineer | Embedded Systems & Robotics Enthusiast
+  <p align="center">
+    <strong>Electronics & Telecommunication Engineer</strong> | <strong>Embedded Systems & Robotics Specialist</strong>
+  </p>
+  <p align="center">
+    <i>"Building the future of Connected & Smart Systems"</i>
+  </p>
 
-> *"Building the future of Connected & Smart Systems"*
+  <img src="https://github-profile-trophy.vercel.app/?username=syedtaqqeeulla0905&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophy Shelf" />
+</div>
 
----
+<br/>
 
 ### Hardware & Embedded Systems
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,c,cpp&perline=6&theme=dark" alt="Hardware Tech Stack" />
+  </a>
 </p>
 
-### Languages & Software Technologies
+### Software & Web Engineering
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,git,github,vscode,vercel,netlify,linux&perline=6&theme=dark" alt="Software Tech Stack" />
+  </a>
 </p>
 
 ---
 
-### About Me
+### Engineering Profile Matrix
 
 ```cpp
-struct Engineer {
+class EmbeddedEngineer {
+public:
     string name = "Syed Taqeeulla";
-    string domain = "Electronics & Telecommunication Engineering";
-    vector<string> interests = {"Embedded Systems", "Robotics", "IoT & Smart Systems"};
-    vector<string> hardware = {"ESP32", "STM32", "Raspberry Pi", "Arduino"};
+    string specialization = "Electronics & Telecommunication Engineering";
+    vector<string> coreFocus = {
+        "Embedded Systems Architecture",
+        "Robotics & Control Systems",
+        "IoT & Hardware-Software Integration"
+    };
+    vector<string> microcontrollers = {"ESP32", "STM32", "Raspberry Pi", "Arduino"};
     vector<string> languages = {"C", "C++", "MATLAB", "JavaScript", "TypeScript"};
-    string goal = "Integrating physical hardware with intelligent web & software systems";
 };
 ```
 
 ---
 
-### GitHub Stats
+### GitHub Metrics & Activity
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syedtaqqeeulla0905&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syedtaqqeeulla0905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedtaqqeeulla0905&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
-  <i>"Connecting the physical and digital world through hardware & code."</i>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtaqqeeulla0905&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### Contribution Snake Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedtaqqeeulla0905/syedtaqqeeulla0905/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedtaqqeeulla0905/syedtaqqeeulla0905/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/syedtaqqeeulla0905/syedtaqqeeulla0905/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer" width="100%" />
+</div>
