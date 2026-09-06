@@ -34,14 +34,22 @@ public:
     string name = "Syed Taqeeulla";
     string specialization = "Electronics & Telecommunication Engineering";
     vector<string> coreFocus = {
-        "Embedded Systems Architecture",
-        "Robotics & Control Systems",
+        "FreeRTOS & Real-Time Kernel Architecture",
+        "Embedded Systems & Robotics Control",
         "IoT & Hardware-Software Integration"
     };
     vector<string> microcontrollers = {"ESP32", "STM32", "Raspberry Pi", "Arduino"};
     vector<string> languages = {"C", "C++", "MATLAB", "JavaScript", "TypeScript"};
 };
 ```
+
+---
+
+### Currently Working On & Learning
+
+- **Current Focus**: Real-Time Operating Systems (FreeRTOS), Task Scheduling, Queues & Semaphores
+- **Hardware Integration**: ESP32 Microcontrollers & Sensors
+- **Software Engineering**: C/C++, Embedded Architecture, & Web Applications
 
 ---
 
