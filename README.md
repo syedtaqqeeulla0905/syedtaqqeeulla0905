@@ -12,7 +12,11 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,c,cpp,kicad&perline=6&theme=dark" alt="Hardware Stack" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,c,cpp&perline=6&theme=dark" alt="Hardware Stack" align="center" />
+  </a>
+  &nbsp;
+  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/KiCad-314159?style=for-the-badge&logo=kicad&logoColor=white" height="48" alt="KiCad" align="center" />
   </a>
 </p>
 
