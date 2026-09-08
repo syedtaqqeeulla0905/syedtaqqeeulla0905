@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,c,cpp&perline=6&theme=dark" alt="Hardware Stack" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,c,cpp,kicad&perline=6&theme=dark" alt="Hardware Stack" />
   </a>
 </p>
 
